@@ -1,0 +1,30 @@
+<!-- Cada página HTML debe comenzar con el tipo de documento -->
+
+<!doctype html> 
+
+<!-- Luego se pone la etiqueta html que es basicamente la etiqueta que contiene todo el documento html -->
+
+<html> 
+
+<!-- Luego va la etiqueta de cabeza, la cual contiene elementos que describen el contenido principal de la página -->
+
+<head>
+
+	<!-- Se escribe el primer metatag, el cual especifica en conjunto de caracteres y esta no tiene cierre -->
+
+	<meta charset="utf-8">
+
+	<!-- Se coloca el título de la página, este es obligatorio, sino el programa no funcionará -->
+
+	<title> Coursera is Cool! </title>
+
+</head>
+
+<!-- Luego va la etiqueta del cuerpo, esta es la raíz de todo el contenido que es visible para el usuario -->
+
+<body>
+
+Coursera is so Cool! 
+
+</body>
+</html>
